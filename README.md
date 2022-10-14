@@ -1,6 +1,7 @@
 # UFOs
 
 ![Alt Text](https://github.com/lauren1478/UFOs/blob/main/ufo%20dashboardv2.png)
+Note: I was not able to get the nasa jpeg to pull through, so I added a background color instead.
 
 ## Overview of Project: Explain the purpose of this analysis.
 
